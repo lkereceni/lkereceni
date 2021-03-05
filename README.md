@@ -6,4 +6,6 @@ Lovro Kerečeni, Android Developer
 
 ### Technologies I use:
 
-[![Kotlin Badge](https://img.shields.io/badge/-Kotlin-F6891F?style=for-the-badge&labelColor=252526&logo=kotlin&logoColor=766DB2)](#)
+[![Kotlin Badge](https://img.shields.io/badge/-Kotlin-F6891F?style=for-the-badge&labelColor=252526&logo=kotlin&logoColor=B75EA4)](#) [![Java Badge](https://img.shields.io/badge/-Java-EC2025?style=for-the-badge&labelColor=252526&logo=java&logoColor=EC2025)](#)
+
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=252526&logo=mysql&logoColor=white)](#)
