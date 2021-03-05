@@ -6,6 +6,10 @@ Lovro Kerečeni, Android Developer
 
 ### Technologies I use:
 
-[![Kotlin Badge](https://img.shields.io/badge/-Kotlin-F6891F?style=for-the-badge&labelColor=252526&logo=kotlin&logoColor=B75EA4)](#) [![Java Badge](https://img.shields.io/badge/-Java-EC2025?style=for-the-badge&labelColor=252526&logo=java&logoColor=EC2025)](#)
+[![Kotlin Badge](https://img.shields.io/badge/-Kotlin-F6891F?style=for-the-badge&labelColor=252526&logo=kotlin&logoColor=B75EA4)](#) [![Java Badge](https://img.shields.io/badge/-Java-EC2025?style=for-the-badge&labelColor=252526&logo=java&logoColor=EC2025)](#) [![Android Studio Badge](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&labelColor=252526&logo=android-studio&logoColor=3DDC84)](#) [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=252526&logo=git&logoColor=F05032)](#)
 
-[![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=252526&logo=mysql&logoColor=white)](#)
+[![Retrofit Badge](https://img.shields.io/badge/-Retrofit-5CB670?style=for-the-badge&labelColor=252526)](#) [![RxJava Badge](https://img.shields.io/badge/-RxJava-96008F?style=for-the-badge&labelColor=252526)](#) [![Koin Badge](https://img.shields.io/badge/-Koin-FDC63F?style=for-the-badge&labelColor=252526)](#) [![Jetbrains Badge](https://img.shields.io/badge/-Jetpack_Compose-3870B2?style=for-the-badge&labelColor=37BF6E&logo=jetbrains&logoColor=white)](#)
+
+[![Material Design Badge](https://img.shields.io/badge/-Material_Design-757575?style=for-the-badge&labelColor=252526&logo=material-design&logoColor=757575)](#)
+
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=252526&logo=mysql&logoColor=white)](#) [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&labelColor=252526&logo=firebase&logoColor=FFCA28)](#)
